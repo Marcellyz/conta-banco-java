@@ -1,18 +1,7 @@
-## Getting Started
+# Desafio Conta Banco Java Básico
+Este repositório é destinado ao estudo de Java Básico, onde implementei de uma conta, onde utilizei a Scanner, solicitando ao usuário o nome do cliente, numero da conta, saldo e o numero da Agencia e depois apresentei essas informações na tela para o usuário.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📍Stack utilizada
+<div>
+  <img align="inline_block" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
